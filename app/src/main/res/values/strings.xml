@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseCRUDRealtimeDB</string>
+    <string-array name="studentclass">
+
+        <item>CSE</item>
+        <item>BBA</item>
+        <item>ENG</item>
+        <item>LAW</item>
+        <item>LLB</item>
+
+    </string-array>
+</resources>

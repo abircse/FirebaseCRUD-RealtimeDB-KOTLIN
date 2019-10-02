@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676832912104",
+    "firebase_url": "https://fir-crudrealtimedb.firebaseio.com",
+    "project_id": "fir-crudrealtimedb",
+    "storage_bucket": "fir-crudrealtimedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676832912104:android:e7148345dba3d93fafdf5d",
+        "android_client_info": {
+          "package_name": "com.thisisabir.firebasecrudrealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676832912104-pkriq4m2jb3j6dqglsc182q6o5eov77v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thisisabir.firebasecrudrealtimedb",
+            "certificate_hash": "a282ccfdcef87b886f9cf4330a2cb1680c957689"
+          }
+        },
+        {
+          "client_id": "676832912104-1aomm7jlsbpoujesmg829071t7cjbgn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF042_pwVVky48HJEOmBQ8ioX2tspoLLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676832912104-1aomm7jlsbpoujesmg829071t7cjbgn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
